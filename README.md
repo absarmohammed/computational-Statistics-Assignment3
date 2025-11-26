@@ -1,4 +1,4 @@
-# Computational Statistics Assignment 3
+# Computational Statistics Algorithms
 
 ## Overview
 
